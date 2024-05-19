@@ -1,3 +1,3 @@
-This is a Data Analysis project revolving around COVID-19. The project has 2 components, SQL Queries and a PowerBI Dashboard
-1. SQL Queries involve analyzing key statistics relating to COVID-19, including Total Vaccinations by continent, total cases by province and ICU vs Hospital Admissions each year.
-2. Dashboard in PowerBI, displlaying all key data in a variety of different graphs, including Pie Charts, Bar Charts, Stacked Graphs and a Map
+These are Data Analytics Projects I have been working on. One is a COVID-19 Dashboard using PowerBI and SQL, while the other is a NBA data anlytics project using web scraping, Pandas, SQL and PowerBI.
+1. SQL Queries involve analyzing key statistics relating to COVID-19, including Total Vaccinations by continent, total cases by province and ICU vs Hospital Admissions each year. Dashboard in PowerBI, displlaying all key data in a variety of different graphs, including Pie Charts, Bar Charts, Stacked Graphs and a Map
+2. NBA Data Analytics project involving web scraping data from NBA.COM, using Pandas to clean the data, use SQL to extract key information such as playes with best statistics and put all data into a PowerBI Dashboard in the end.
